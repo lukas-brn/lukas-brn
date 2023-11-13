@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukas-brn&show_icons=true&locale=en&layout=compact" alt="lukas-brn" />
 </p>
 
-👀 I’m interested in Computer Science and Video Games
-🌱 I’m currently stutying Computer Science
-📺 Most of the public code on here is quite old, so you might not bother looking at it
+- 👀 I’m interested in Computer Science and Video Games
+- 🌱 I’m currently stutying Computer Science
+- 📺 Most of the public code on here is quite old, so you might not bother looking at it
 
